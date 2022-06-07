@@ -3,10 +3,10 @@
 
 ![OldFashionned-ScrollText](https://github.com/CaptainFurax/p5xjs-Old-Skool-Toujours/blob/main/CPT2206072114-1178x920.png)
 
-+ Today, playing [ Again] with an Old Fx : An ASCII-Ordered Scrolltext built over a Bitmap :)
++ Today, playing [Again ! ](https://www.youtube.com/watch?v=IKB1hWWedMk) with an Old Fx : An ASCII-Ordered Scrolltext built over a Bitmap :)
   + [.oO° Online Demo °Oo.](https://captainfurax.github.io/p5xjs-Old-Fashionned-ScrollText/)
   + Specs : 
-    + 2D Canvas, very smooth and fast at only 50fps with a 64x64px character font. 
+    + 2D Canvas, very smooth and fast at 60fps with a 32x32px character font + a Rotative Starfied. 
     + Organize your bitmap font by ASCII Code...order !
     + Copy your characters indexed by their code, sub 32 [ first chr == space ] and mult by the width [ here , 64px ] - You've got it's x index !
     + Ex : 
@@ -39,6 +39,7 @@ SwapMeIamFamous=_=>
   (p=(++p)%blocks.length);
   buffers[1].image( buffers[0].get(0, 400, 640, 80), 0, 0, 640, 80 );
   buffers[1].image( buffers[0].get(0,0,640,400), 0, 80, 640, 400 );
-  buffers[0,1] = buffers[1,0];
+  // => Swap Buffered Screen once moves done
+  [ buffers[0], buffers[1] ] = [ buffers[1], buffers[0] ];
 }
 ```
