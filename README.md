@@ -3,7 +3,7 @@
 
 ![OldFashionned-ScrollText](https://github.com/CaptainFurax/p5xjs-Old-Skool-Toujours/blob/main/CPT2206072114-1178x920.png)
 
-+ Today, playing with an Old Fx : An ASCII-Ordered Scrolltext built over a Bitmap :)
++ Today, playing [ Again] with an Old Fx : An ASCII-Ordered Scrolltext built over a Bitmap :)
   + [.oO° Online Demo °Oo.](https://captainfurax.github.io/p5xjs-Old-Fashionned-ScrollText/)
   + Specs : 
     + 2D Canvas, very smooth and fast at only 50fps with a 64x64px character font. 
