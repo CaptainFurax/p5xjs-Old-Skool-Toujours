@@ -33,7 +33,7 @@ setup=_=> {
     "It's better like that.",
     "Because, You know What ????",
     "It's 2022 & ATARI Still Rulezzzzzz Your Fucking Screen Baby !",
-    "*** Ok, Let's Wrap ! *** ..oO Capt'nFurax Oo.. ***"
+    "*** Ok, Let's Wrap ! *** ..oO Capt'nFurax - 2022 Oo.. ***"
   ];
   blocks = Array.from( Array(snts.length), _=> Array() );
   /* La bande a Rasters et leurs Claques...euh...leurs calques. */
