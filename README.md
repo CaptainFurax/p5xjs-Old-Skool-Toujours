@@ -1,7 +1,7 @@
 # p5xjs-Old-Skool-Toujours
 # [ in fact : p5xjs-Old-Fashionned-ScrollText v2 + Starfield :) ]
 
-![OldFashionned-ScrollText](https://github.com/CaptainFurax/p5xjs-Old-Fashionned-ScrollText/blob/main/CPT2206070740-1179x921.png)
+![OldFashionned-ScrollText](https://github.com/CaptainFurax/p5xjs-Old-Skool-Toujours/blob/main/CPT2206072114-1178x920.png)
 
 + Today, playing with an Old Fx : An ASCII-Ordered Scrolltext built over a Bitmap :)
   + [.oO° Online Demo °Oo.](https://captainfurax.github.io/p5xjs-Old-Fashionned-ScrollText/)
