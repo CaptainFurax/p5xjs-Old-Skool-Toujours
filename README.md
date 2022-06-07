@@ -1,4 +1,5 @@
-# p5xjs-Old-Skool-Toujours [ p5xjs-Old-Fashionned-ScrollText v2 + Stafield ]
+# p5xjs-Old-Skool-Toujours
+# [ in fact : p5xjs-Old-Fashionned-ScrollText v2 + Starfield :) ]
 
 ![OldFashionned-ScrollText](https://github.com/CaptainFurax/p5xjs-Old-Fashionned-ScrollText/blob/main/CPT2206070740-1179x921.png)
 
